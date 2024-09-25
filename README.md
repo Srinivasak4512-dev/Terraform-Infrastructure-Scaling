@@ -1,6 +1,4 @@
 # Terraform-Infrastructure-Scaling
-**Terraform-Infrastructure-Scaling**
-
 **Understanding Scaling**
 
 Scaling is the process of adding or removing resources to match the changing demands of your application. As your application grows, more resources may be needed to handle increased load. Similarly, as the load decreases, unnecessary resources can be removed to save costs.
